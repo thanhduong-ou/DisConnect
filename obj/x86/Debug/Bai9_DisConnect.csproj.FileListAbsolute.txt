@@ -1,0 +1,30 @@
+D:\Bai9_DisConnect\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Bai9_DisConnect\obj\x86\Debug\Bai9_DisConnect.frmCustomer.resources
+D:\Bai9_DisConnect\obj\x86\Debug\Bai9_DisConnect.Properties.Resources.resources
+D:\Bai9_DisConnect\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Bai9_DisConnect\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Bai9_DisConnect\bin\Debug\Bai9_DisConnect.exe.config
+D:\Bai9_DisConnect\bin\Debug\Bai9_DisConnect.exe
+D:\Bai9_DisConnect\bin\Debug\Bai9_DisConnect.pdb
+D:\Bai9_DisConnect\obj\x86\Debug\Bai9_DisConnect.exe
+D:\Bai9_DisConnect\obj\x86\Debug\Bai9_DisConnect.pdb
+C:\Users\admin\Desktop\2 LTCSDL Fall 2014\Bai9_DisConnect\bin\Debug\Bai9_DisConnect.exe.config
+C:\Users\admin\Desktop\2 LTCSDL Fall 2014\Bai9_DisConnect\obj\x86\Debug\Bai9_DisConnect.exe
+C:\Users\admin\Desktop\2 LTCSDL Fall 2014\Bai9_DisConnect\obj\x86\Debug\Bai9_DisConnect.pdb
+C:\Users\admin\Desktop\2 LTCSDL Fall 2014\Bai9_DisConnect\bin\Debug\Bai9_DisConnect.exe
+C:\Users\admin\Desktop\2 LTCSDL Fall 2014\Bai9_DisConnect\bin\Debug\Bai9_DisConnect.pdb
+C:\Users\admin\Desktop\2 LTCSDL Fall 2014\Bai9_DisConnect\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\2 LTCSDL Fall 2014\Bai9_DisConnect\obj\x86\Debug\Bai9_DisConnect.frmCustomer.resources
+C:\Users\admin\Desktop\2 LTCSDL Fall 2014\Bai9_DisConnect\obj\x86\Debug\Bai9_DisConnect.Properties.Resources.resources
+C:\Users\admin\Desktop\2 LTCSDL Fall 2014\Bai9_DisConnect\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\admin\Desktop\2 LTCSDL Fall 2014\Bai9_DisConnect\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\B\Desktop\2 LTCSDL Fall 2016\Bai9_DisConnect\bin\Debug\Bai9_DisConnect.exe.config
+C:\Users\B\Desktop\2 LTCSDL Fall 2016\Bai9_DisConnect\obj\x86\Debug\Bai9_DisConnect.exe
+C:\Users\B\Desktop\2 LTCSDL Fall 2016\Bai9_DisConnect\obj\x86\Debug\Bai9_DisConnect.pdb
+C:\Users\B\Desktop\2 LTCSDL Fall 2016\Bai9_DisConnect\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\B\Desktop\2 LTCSDL Fall 2016\Bai9_DisConnect\obj\x86\Debug\Bai9_DisConnect.frmCustomer.resources
+C:\Users\B\Desktop\2 LTCSDL Fall 2016\Bai9_DisConnect\obj\x86\Debug\Bai9_DisConnect.Properties.Resources.resources
+C:\Users\B\Desktop\2 LTCSDL Fall 2016\Bai9_DisConnect\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\B\Desktop\2 LTCSDL Fall 2016\Bai9_DisConnect\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\B\Desktop\2 LTCSDL Fall 2016\Bai9_DisConnect\bin\Debug\Bai9_DisConnect.exe
+C:\Users\B\Desktop\2 LTCSDL Fall 2016\Bai9_DisConnect\bin\Debug\Bai9_DisConnect.pdb
